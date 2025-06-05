@@ -31,8 +31,7 @@ const useChatbot = () => {
                 },
                 {
                     headers: {
-                        Authorization: `Bearer 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`,
-                        //AIzaSyBD7EWIEMziL_oZggHp84ZQV58rb5RvRL0
+                        Authorization: `Bearer [INSERT YOUR TOKEN HERE]
                         "Content-Type": "application/json",
                     },
                 }
